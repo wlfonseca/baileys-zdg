@@ -46,7 +46,7 @@
     "https-proxy-agent": "^5.0.0",
     "jimp": "^0.16.1",
     "music-metadata": "^7.4.1",
-    "mysql2": "^2.3.3",
+    "mysql2": "^3.9.8",
     "pino": "^6.7.0",
     "pino-pretty": "^4.3.0",
     "protobufjs": "^6.10.1",
